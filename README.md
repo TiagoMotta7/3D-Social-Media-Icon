@@ -1,4 +1,4 @@
-# 3D-Social-Media-Icon
+# 3D Social Media Icon
 
 3D Icons hover
 
@@ -14,6 +14,6 @@ Just clone the repository and have fun!
 
 ## Screen
 
-![](20210628_152248.gif)
+![Screen](gifs/20210628_152248.gif)
 
 
