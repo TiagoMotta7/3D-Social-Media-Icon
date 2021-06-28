@@ -11,9 +11,3 @@
 ## Installation
 
 Just clone the repository and have fun!
-
-## Screen
-
-![Screen](gifs/3d icon.gif)
-
-
